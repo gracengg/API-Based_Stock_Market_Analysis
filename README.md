@@ -108,4 +108,4 @@ aapl_analysis.ipynb Executed research notebook
 - [FRED: API observations documentation](https://fred.stlouisfed.org/docs/api/fred/series_observations.html)
 - [NBER: business-cycle dates](https://www.nber.org/research/data/us-business-cycle-expansions-and-contractions)
 
-[Portfolio case study](https://gracengg.github.io/portfolio-preview/case-studies/apple-equity-risk.html) | [Grace Ngo's portfolio](https://gracengg.github.io/portfolio-preview/)
+[Portfolio case study](https://gracengg.github.io/case-studies/apple-equity-risk.html) | [Grace Ngo's portfolio](https://gracengg.github.io/)
